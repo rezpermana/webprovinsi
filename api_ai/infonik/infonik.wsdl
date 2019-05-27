@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions
+  targetNamespace='http://localhost/api_infonik/infonik/'
+  xmlns:xts='http://localhost/api_infonik/infonik/'
+  xmlns:soap='http://schemas.xmlsoap.org/wsdl/soap/'
+  xmlns:xsd='http://www.w3.org/2001/XMLSchema'
+  xmlns:soapenc='http://schemas.xmlsoap.org/soap/encoding/'
+  xmlns:wsdl='http://schemas.xmlsoap.org/wsdl/'
+  xmlns='http://schemas.xmlsoap.org/wsdl/'>
+
+  <wsdl:types>
+    <xsd:schema targetNamespace='http://localhost/api_infonik/infonik/'>
+      <xsd:include schemaLocation='http://localhost/api_infonik/infonik/skema.xsd' />
+    </xsd:schema>
+  </wsdl:types>
+
+  <wsdl:message name='info_nikRequest'>
+    <wsdl:part name='nik' type='xts:int' />
+  </wsdl:message>
+  <wsdl:message name='info_nikResponse'>
+    <wsdl:part name='infonik' type='xts:string' />
+  </wsdl:message>
+
+  <wsdl:portType name='ServicePortType'>
+    <wsdl:operation name='info_nik'>
+      <input message='info_nikRequest' />
+      <output message='info_nikResponse' />
+    </wsdl:operation>
+  </wsdl:portType>
+
+  <wsdl:binding name='ServiceBinding' type='ServicePortType'>
+    <soap:binding style='rpc' transport='http://schemas.xmlsoap.org/soap/http'/>
+    <wsdl:operation name='info_nik'>
+      <soap:operation soapAction='http://localhost/api_infonik/infonik/#info_nik'/>
+      <wsdl:input>
+        <soap:body use='literal'
+                   encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'
+                   namespace='http://localhost/api_infonik/infonik/'/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use='literal'
+                   encodingStyle='http://schemas.xmlsoap.org/soap/encoding/'
+                   namespace='http://localhost/api_infonik/infonik/'/>
+      </wsdl:output>
+    </wsdl:operation>
+   </wsdl:binding>
+
+  <wsdl:service name='data_nikService'>
+    <wsdl:port binding='ServiceBinding' name='ServicePort'>
+      <soap:address location='http://localhost/api_infonik/infonik/soap.php'/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
