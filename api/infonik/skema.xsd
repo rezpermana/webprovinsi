@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema elementFormDefault="qualified" xmlns="http://localhost/api_infonik/infonik/"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://localhost/api_infonik/infonik/">
+  <xsd:complexType name='data_nik'>
+    <xsd:all>
+      <xsd:element name='nik' type='xsd:int' />
+      <xsd:element name='provinsi' type='xsd:string' />
+      <xsd:element name='kota_kabupaten' type='xsd:string' />
+      <xsd:element name='kecamatan' type='xsd:string' />
+      <xsd:element name='jenis_kelamin' type='xsd:string' />
+      <xsd:element name='tanggal_lahir' type='xsd:int' />
+      <xsd:element name='bulan_lahir' type='xsd:int' />
+      <xsd:element name='tahun_lahir' type='xsd:int' />
+      <xsd:element name='nomor_urut' type='xsd:string' />
+      <xsd:element name='pesan' type='xsd:string' />
+    </xsd:all>
+  </xsd:complexType>
+  <xsd:complexType name='data_nik'>
+    <xsd:sequence>
+      <xsd:element name='data_nik' maxOccurs='unbounded' minOccurs='1'/>
+    </xsd:sequence>
+  </xsd:complexType>
+</xsd:schema>
