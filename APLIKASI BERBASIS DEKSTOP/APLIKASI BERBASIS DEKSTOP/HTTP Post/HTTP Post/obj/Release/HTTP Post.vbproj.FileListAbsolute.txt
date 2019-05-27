@@ -1,0 +1,40 @@
+C:\Users\Silvia Dwi Oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\bin\Release\HTTP Post.exe
+C:\Users\Silvia Dwi Oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\bin\Release\HTTP Post.pdb
+C:\Users\Silvia Dwi Oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\bin\Release\HTTP Post.xml
+C:\Users\Silvia Dwi Oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\bin\Release\Newtonsoft.Json.dll
+C:\Users\Silvia Dwi Oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\bin\Release\Newtonsoft.Json.xml
+C:\Users\Silvia Dwi Oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\obj\Release\HTTP Post.vbprojResolveAssemblyReference.cache
+C:\Users\Silvia Dwi Oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\obj\Release\HTTP_Post.infonik.resources
+C:\Users\Silvia Dwi Oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\obj\Release\HTTP_Post.Resources.resources
+C:\Users\Silvia Dwi Oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\obj\Release\HTTP Post.vbproj.GenerateResource.Cache
+C:\Users\Silvia Dwi Oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\obj\Release\HTTP Post.exe
+C:\Users\Silvia Dwi Oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\obj\Release\HTTP Post.xml
+C:\Users\Silvia Dwi Oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\obj\Release\HTTP Post.pdb
+D:\web service\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\bin\Release\HTTP Post.exe
+D:\web service\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\bin\Release\HTTP Post.pdb
+D:\web service\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\bin\Release\HTTP Post.xml
+D:\web service\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\bin\Release\Newtonsoft.Json.dll
+D:\web service\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\bin\Release\Newtonsoft.Json.xml
+D:\web service\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\obj\Release\HTTP Post.vbprojAssemblyReference.cache
+D:\web service\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\obj\Release\HTTP_Post.infonik.resources
+D:\web service\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\obj\Release\HTTP_Post.Resources.resources
+D:\web service\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\obj\Release\HTTP Post.vbproj.GenerateResource.cache
+D:\web service\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\obj\Release\HTTP Post.vbproj.CoreCompileInputs.cache
+D:\web service\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\obj\Release\HTTP Post.vbproj.CopyComplete
+D:\web service\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\obj\Release\HTTP Post.exe
+D:\web service\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\obj\Release\HTTP Post.xml
+D:\web service\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\obj\Release\HTTP Post.pdb
+C:\xampp\htdocs\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\bin\Release\HTTP Post.exe
+C:\xampp\htdocs\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\bin\Release\HTTP Post.pdb
+C:\xampp\htdocs\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\bin\Release\HTTP Post.xml
+C:\xampp\htdocs\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\bin\Release\Newtonsoft.Json.dll
+C:\xampp\htdocs\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\bin\Release\Newtonsoft.Json.xml
+C:\xampp\htdocs\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\obj\Release\HTTP Post.vbprojAssemblyReference.cache
+C:\xampp\htdocs\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\obj\Release\HTTP_Post.infonik.resources
+C:\xampp\htdocs\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\obj\Release\HTTP_Post.Resources.resources
+C:\xampp\htdocs\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\obj\Release\HTTP Post.vbproj.GenerateResource.cache
+C:\xampp\htdocs\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\obj\Release\HTTP Post.vbproj.CoreCompileInputs.cache
+C:\xampp\htdocs\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\obj\Release\HTTP Post.vbproj.CopyComplete
+C:\xampp\htdocs\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\obj\Release\HTTP Post.exe
+C:\xampp\htdocs\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\obj\Release\HTTP Post.xml
+C:\xampp\htdocs\APLIKASI BERBASIS DEKSTOP\APLIKASI BERBASIS DEKSTOP\HTTP Post\HTTP Post\obj\Release\HTTP Post.pdb

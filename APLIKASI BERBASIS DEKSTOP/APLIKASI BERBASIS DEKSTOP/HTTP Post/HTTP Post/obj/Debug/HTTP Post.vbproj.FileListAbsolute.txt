@@ -1,0 +1,15 @@
+c:\users\silvia dwi oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\obj\Debug\HTTP Post.vbprojResolveAssemblyReference.cache
+c:\users\silvia dwi oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\obj\Debug\HTTP_Post.Resources.resources
+c:\users\silvia dwi oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\obj\Debug\HTTP Post.vbproj.GenerateResource.Cache
+c:\users\silvia dwi oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\obj\Debug\HTTP Post.xml
+c:\users\silvia dwi oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\bin\Debug\HTTP Post.exe
+c:\users\silvia dwi oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\bin\Debug\HTTP Post.pdb
+c:\users\silvia dwi oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\bin\Debug\HTTP Post.xml
+c:\users\silvia dwi oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\obj\Debug\HTTP Post.exe
+c:\users\silvia dwi oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\obj\Debug\HTTP Post.pdb
+c:\users\silvia dwi oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\bin\Debug\Newtonsoft.Json.dll
+c:\users\silvia dwi oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Silvia Dwi Oktalia\documents\visual studio 2015\Projects\HTTP Post\HTTP Post\obj\Debug\HTTP_Post.infonik.resources
+C:\Users\Silvia Dwi Oktalia\Documents\Visual Studio 2015\Projects\INFONIK\HTTP Post\obj\Debug\HTTP Post.exe
+C:\Users\Silvia Dwi Oktalia\Documents\Visual Studio 2015\Projects\INFONIK\HTTP Post\obj\Debug\HTTP Post.xml
+C:\Users\Silvia Dwi Oktalia\Documents\Visual Studio 2015\Projects\INFONIK\HTTP Post\obj\Debug\HTTP Post.pdb
